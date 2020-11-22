@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pintea_Ionica_Lab6", "Pintea_Ionica_Lab6.csproj", "{60F1A0AA-38BD-4A77-8F93-27C6C0A18301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{A8343B71-2B41-42F2-83A0-D41AC8BD76D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60F1A0AA-38BD-4A77-8F93-27C6C0A18301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F1A0AA-38BD-4A77-8F93-27C6C0A18301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F1A0AA-38BD-4A77-8F93-27C6C0A18301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F1A0AA-38BD-4A77-8F93-27C6C0A18301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8343B71-2B41-42F2-83A0-D41AC8BD76D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8343B71-2B41-42F2-83A0-D41AC8BD76D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8343B71-2B41-42F2-83A0-D41AC8BD76D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8343B71-2B41-42F2-83A0-D41AC8BD76D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C00ECA9-9D5E-47B6-8DB7-154AD51653CE}
+	EndGlobalSection
+EndGlobal
